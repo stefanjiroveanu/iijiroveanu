@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.50d8f392.css",
-    "main.js": "/static/js/main.4354d88a.js",
-    "static/js/453.0a36081d.chunk.js": "/static/js/453.0a36081d.chunk.js",
-    "static/media/program.bmp": "/static/media/program.9766720e012a9fafd349.bmp",
-    "static/media/3.jpg": "/static/media/3.652bafb2dc982a2c1bac.jpg",
-    "static/media/pellets1.jpg": "/static/media/pellets1.660948f4f0423c4eafde.jpg",
-    "static/media/pellets2.jpg": "/static/media/pellets2.0d24e4fec18fa9802949.jpg",
-    "static/media/sigla-afir.png": "/static/media/sigla-afir.5dcb7ea433cda444602f.png",
-    "static/media/logo.png": "/static/media/logo.705d8f6e366c789e22ba.png",
-    "static/media/check.svg": "/static/media/check.ada086e7f636a8fc2bdca6eeb457a520.svg",
-    "index.html": "/index.html",
-    "main.50d8f392.css.map": "/static/css/main.50d8f392.css.map",
-    "main.4354d88a.js.map": "/static/js/main.4354d88a.js.map",
-    "453.0a36081d.chunk.js.map": "/static/js/453.0a36081d.chunk.js.map"
+    "main.css": "/iijiroveanu/static/css/main.50d8f392.css",
+    "main.js": "/iijiroveanu/static/js/main.3feac4b8.js",
+    "static/js/453.0a36081d.chunk.js": "/iijiroveanu/static/js/453.0a36081d.chunk.js",
+    "static/media/program.bmp": "/iijiroveanu/static/media/program.9766720e012a9fafd349.bmp",
+    "static/media/3.jpg": "/iijiroveanu/static/media/3.652bafb2dc982a2c1bac.jpg",
+    "static/media/pellets1.jpg": "/iijiroveanu/static/media/pellets1.660948f4f0423c4eafde.jpg",
+    "static/media/pellets2.jpg": "/iijiroveanu/static/media/pellets2.0d24e4fec18fa9802949.jpg",
+    "static/media/sigla-afir.png": "/iijiroveanu/static/media/sigla-afir.5dcb7ea433cda444602f.png",
+    "static/media/logo.png": "/iijiroveanu/static/media/logo.705d8f6e366c789e22ba.png",
+    "static/media/check.svg": "/iijiroveanu/static/media/check.ada086e7f636a8fc2bdca6eeb457a520.svg",
+    "index.html": "/iijiroveanu/index.html",
+    "main.50d8f392.css.map": "/iijiroveanu/static/css/main.50d8f392.css.map",
+    "main.3feac4b8.js.map": "/iijiroveanu/static/js/main.3feac4b8.js.map",
+    "453.0a36081d.chunk.js.map": "/iijiroveanu/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50d8f392.css",
-    "static/js/main.4354d88a.js"
+    "static/js/main.3feac4b8.js"
   ]
 }
